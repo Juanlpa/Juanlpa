@@ -6,7 +6,7 @@
 
 # Juan López
 
-**Software Engineer — Ecuador**
+**Software Engineering Student & Full Stack Developer — Ecuador**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Juanlpa&color=6e40c9&style=flat-square&label=profile+views)](https://github.com/Juanlpa)
 [![GitHub followers](https://img.shields.io/github/followers/Juanlpa?label=followers&style=flat-square&color=6e40c9)](https://github.com/Juanlpa)
@@ -20,19 +20,19 @@
 ```javascript
 const juan = {
   location:    "Ambato, Ecuador",
-  role:        ["Software Engineer", "Full Stack Developer"],
+  role:        ["Software Engineering Student", "Full Stack Developer"],
   education:   "Software Engineering — Universidad Técnica de Ambato (2021-2026)",
-  experience:  "4 years building web & mobile solutions",
-  looking_for: ["Job", "Freelance", "Collaborations"],
+  status:      "Currently studying",
+  looking_for: ["Internship", "Freelance", "Collaborations"],
   available:   true
 };
 ```
 
-- Full Stack Developer with **4 years** of hands-on experience building and scaling software solutions
-- From **sensor monitoring systems** to **electronic billing platforms** and **environmental management systems**
-- Strong adaptability across ecosystems — backend-heavy projects in **Kotlin, Java (Spring Boot), .NET/Blazor** and frontend work with **React, Angular**
-- Experienced with **Docker, PostgreSQL, Node.js** and clean architecture patterns
-- Open to **job opportunities, freelance work and collaborations**
+- Software Engineering student at **Universidad Técnica de Ambato**, passionate about building full stack web & mobile applications
+- Hands-on experience through **academic and personal projects** — from real-time messaging apps to service management platforms with online payments
+- Comfortable across ecosystems — backend in **Kotlin, Java (Spring Boot), .NET/Blazor** and frontend with **React, Angular and Next.js**
+- Experienced with **Docker, PostgreSQL, Supabase, Node.js** and clean architecture patterns
+- Open to **internships, freelance work and collaborations**
 
 ---
 
@@ -57,6 +57,7 @@ const juan = {
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
@@ -70,6 +71,7 @@ const juan = {
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase"/>
 </p>
 
 ### Tools & DevOps
@@ -91,22 +93,12 @@ const juan = {
 
 ---
 
-## Work Experience
-
-| Period | Company | Role | Highlights |
-|--------|---------|------|------------|
-| Oct 2025 – Mar 2026 | **Systerratech SAS** | Software Developer | SIMA system — environmental monitoring in real time. Clean Architecture, .NET, Blazor |
-| Sep 2024 – Feb 2025 | **Junta de Agua Potable de Santa Rosa** | Full Stack Developer | Electronic billing system, user management, local regulation compliance |
-| Oct 2024 | **La Bestia Cervecería** | Frontend Developer | Landing page for Ecuadorian craft brewery |
-
----
-
 ## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**SIMA**](https://github.com/Juanlpa) | Real-time environmental management & monitoring system | `.NET` `Blazor` `Clean Architecture` |
-| [**Electronic Billing System**](https://github.com/Juanlpa) | Automated invoice management for a water utility | `Full Stack` `PostgreSQL` |
+| [**RNG Vantage — RGL Estudio**](https://github.com/carlitosgiovanniramos/RNG-Vantage) | Service management platform with reservations, subscriptions & online payments | `Next.js` `TypeScript` `Supabase` `Tailwind` `Kushki` |
+| [**MessengerApp**](https://github.com/Juanlpa/MessengerApp) | Real-time messaging web app (Messenger-style) | `Next.js` `TypeScript` `Supabase` `Tailwind` |
 | [**La Bestia**](https://github.com/Juanlpa/LABESTIA) | Landing page for a craft microbrewery | `HTML` `CSS` `JS` `Bootstrap` |
 | [**VisualLogin**](https://github.com/Juanlpa/VisualLogin) | Login system with custom UI and MVC architecture | `HTML` `CSS` `JS` `PHP` `jQuery` |
 | [**Proyecto SOA**](https://github.com/Juanlpa/Proyecto_SOA) | Service-oriented web app containerized with Docker | `PHP` `CSS` `Docker` |
@@ -148,9 +140,9 @@ const juan = {
 
 ![Kotlin Advanced](https://img.shields.io/badge/Kotlin_Advanced-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React Advanced](https://img.shields.io/badge/React_Advanced-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logo=dotnet&logoColor=white)
-![PostgreSQL Admin](https://img.shields.io/badge/PostgreSQL_Admin-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -158,7 +150,7 @@ const juan = {
 
 <div align="center">
 
-Looking for a software engineer with 4 years of experience and a strong eye for architecture?
+Looking for a motivated full stack developer with a strong eye for architecture?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanp155441@gmail.com)
